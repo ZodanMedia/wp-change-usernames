@@ -11,7 +11,8 @@
 	background-color: #fcecad;
 	border: 1px solid #ccc;
 	padding: 7px;
-	width: 25em;
+	max-width: 45em;
+	width: 100%;
 }
 .zodan-change-usernames-settings-note summary {
 	cursor: pointer;

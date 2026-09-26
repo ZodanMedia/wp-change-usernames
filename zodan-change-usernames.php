@@ -7,7 +7,7 @@
  * Author: Zodan
  * Author URI: https://zodan.nl
  * Version: 1.0.2
- * Tested up to: 7.0
+ * Tested up to: 7.1.2
  * Stable Tag: 1.0.2
  * Text Domain: zodan-change-usernames
  * License: GPLv2 or later
